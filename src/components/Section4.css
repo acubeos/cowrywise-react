@@ -1,0 +1,26 @@
+.section-four {
+    background-color: #0d6efd;
+    /* margin-top: 100px; */
+    /* margin-bottom: 100px; */
+    padding-left: 90px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    width:auto;
+    /* margin-right: auto; */
+    
+}
+
+.sec4-header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 56px;
+}
+
+.sec4-par {
+    margin-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: white;
+}

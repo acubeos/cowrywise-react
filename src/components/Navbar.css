@@ -1,0 +1,18 @@
+#navbar {
+    /* position: fixed; */
+    /* top: -80px; */
+    width: 100%;
+    /* transition: top 0.3s; */
+}
+
+.login-a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+
+.nav-a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: darkgray;
+    margin-left: 10px;
+}

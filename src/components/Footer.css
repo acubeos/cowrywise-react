@@ -1,0 +1,22 @@
+.footer-menu-header {
+    color: rgb(3, 3, 85);
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.list {
+    list-style: none;
+    padding-bottom: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+}
+
+.list a {
+    color: gray;
+    text-decoration:none;
+}
+
+.list a:hover {
+    color: #0d6efd;
+}

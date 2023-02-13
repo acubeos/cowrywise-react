@@ -1,0 +1,47 @@
+/* .card-subtitle {
+    display: inline;
+    d-inline-flex
+} */
+
+.rating {
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.sec5-rate-no {
+    font-size: 36px;
+    font-weight: 700;
+    color: rgb(3, 3, 85);
+    font-family: "Roboto", sans-serif;
+}
+
+.text-muted {
+    font-size: 18px;
+    color: darkgray;
+    font-family: "Roboto", sans-serif;
+}
+
+.sec5-available {
+    color: rgb(3, 3, 85);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.sec5-user-review {
+    font-size: 14px;
+    color: gray;
+    font-family: "Montserrat", sans-serif;
+}
+
+.sec5-download {
+    text-decoration: none;
+    color: rgb(3, 3, 85);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.card-body {
+    padding: 50px;
+}

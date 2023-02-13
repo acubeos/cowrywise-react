@@ -1,0 +1,19 @@
+.sec4-par-main {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+.sec4-span-main {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.sec4-a {
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+}

@@ -1,0 +1,74 @@
+.test-card {
+    position: relative;
+}
+
+.testimonial-backdrop {
+    position: absolute;
+    z-index: -1;
+    background-color: cornflowerblue;
+    width: 350px;
+    height: 760px;
+}
+
+.testimonial-img {
+    position: absolute;
+    left: 50px;
+    top: 60px;
+    width: 90%;
+}
+
+.testimonial {
+    max-width: 300px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 550px;
+    right: 80px;
+}
+
+.testimonial-body {
+    display: block;
+    padding: 20px 20px 10px 20px;
+}
+
+.testimonial-body .name {
+    float: right;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.section-one {
+    padding: 0;
+    margin: 0;
+}
+
+.first-section {
+    padding-bottom: 220px;
+}
+
+.sec1-header {
+    margin-top: 150px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 90px;
+    color: rgb(3, 3, 85);
+}
+
+.sec1-par {
+    color: gray;
+    font-size: 19px;
+    font-family: "Roboto", sans-serif;
+}
+
+.sec1-test {
+    color: gray;
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+}
+
+.sec1-name {
+    color: gray;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+}

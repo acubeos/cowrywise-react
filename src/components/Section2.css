@@ -1,0 +1,25 @@
+/* .lower {
+    margin-bottom: -100px;
+} */
+
+.second-section {
+    padding-bottom: 100px;
+    margin-left: 0;
+}
+
+.sec2-header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: rgb(3, 3, 85);
+}
+
+.sec2-par {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: gray;
+}
+
+/* .text-start{
+    margin-bottom: 200px;
+} */
